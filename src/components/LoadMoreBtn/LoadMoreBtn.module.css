@@ -1,0 +1,8 @@
+.btn {
+    display: flex;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
